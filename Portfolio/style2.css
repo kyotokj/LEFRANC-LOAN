@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+@media mediatype and (expression){
+    /*CSS-Code;*/
+}
+
+   
+
+.bgBlack {
+    background-color: black;
+    margin:0;
+}
+
+#title {
+    width: 1006.102px;
+    height: 215.516px;
+    transform: rotate(-89.736deg);
+    flex-shrink: 0;
+    color: rgb(154, 1, 225);
+    margin-left: none;
+    font-family: Concert One;
+    font-size: 90px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    left: -400px;
+    position: absolute;
+    
+}
+
+img {
+    top: 100px;
+    right: -460px;
+    position: relative;
+    width: 30%;
+}
+
+body {
+    margin:0;
+    background-color:rgb(154, 1, 225)
+  
+}
+#Présentation {
+    color: rgb(154, 1, 225);
+    position: absolute;
+    right: 65px;
+
+}
+
+ul {
+     position: absolute;
+    top: 115px;
+    right: 20px;
+    list-style: none;
+    text-decoration: none;
+    height: 500px;
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    display: flex;
+    flex-direction: row;
+    gap:90px;
+  
+ }
+
+a {
+    
+   font-family: Concert One;
+    color: rgb(154, 1, 225);
+    font-size: 25px;
+    padding-right: 15px;
+    text-decoration:none;
+    display:flex;
+    }
+    .menu{
+        background-color:black;
+        margin:none;
+        text-decoration:none;
+    }
+    .accueil{
+        background-color: black;
+    }
+    
+    .container {
+        position: relative;
+    }
+    .photo{position: absolute;
+        top: 15%;
+        left: 30%;
+        right: 20%;
+        transform: translate(0, -50%);}
+    
+        .text-block {
+            display: flex;
+            align-items: center;}
+        
+        .text-block h2 {
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+        
+        .text-block p {
+            font-size: 16px;
+            margin-bottom: 20px;
+           
+        }
+        #col {
+            column-count: 1;
+          }
+          #wid {
+            column-width: 100px;
+          }
+
+       
+        
+        
+   
+   
+   
+    
+    
+
+    
